@@ -21,8 +21,7 @@ A responsive **carousel card** component built using **React**. This project fea
 
 1️⃣ **Clone the Repository**  
 ```bash
-git clone https://github.com/yourusername/react-carousel-cards.git  
-cd react-carousel-cards  
+git clone https://github.com/yourusername/react-carousel-cards.git   
 ```
 
 2️⃣ **Install Dependencies**  
@@ -37,6 +36,3 @@ npm start
 
 ## ⭐ Contributing  
 If you have any improvements or suggestions, feel free to open a pull request!  
-
-## 📜 License  
-This project is open-source and available under the **MIT License**.
