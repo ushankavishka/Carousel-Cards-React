@@ -15,7 +15,7 @@ A responsive **carousel card** component built using **React**. This project fea
 ## 📸 Screenshots  
 | Carousel Display |  
 |------------------|  
-| ![Carousel](screenshots/carousel-display.png) |  
+| ![Carousel](screenshots/carousel.png) |  
 
 ## 🎯 Installation & Usage  
 
