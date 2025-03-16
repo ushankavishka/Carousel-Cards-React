@@ -1,6 +1,6 @@
 # 🎠 Carousel Cards (React)
 
-A responsive **carousel card** component built using **React, HTML, CSS, and JavaScript**. This project features sliding cards that can be used to display content in a dynamic and interactive manner. The carousel allows users to scroll through various cards with smooth transitions.
+A responsive **carousel card** component built using **React**. This project features sliding cards that can be used to display content in a dynamic and interactive manner. The carousel allows users to scroll through various cards with smooth transitions.
 
 ## 🚀 Features  
 - **Smooth Sliding Animation:** Seamless transitions between cards  
@@ -10,16 +10,12 @@ A responsive **carousel card** component built using **React, HTML, CSS, and Jav
 - **Interactive UI:** Modern design with hover effects and smooth animations  
 
 ## 🛠️ Tech Stack  
-- **Frontend:** React, HTML, CSS, JavaScript  
+- **Frontend:** React, Tailwind CSS, JavaScript  
 
 ## 📸 Screenshots  
 | Carousel Display |  
 |------------------|  
 | ![Carousel](screenshots/carousel-display.png) |  
-
-## 🎬 Video Demo  
-Watch the carousel in action:  
-[🎥 View Demo](screenshots/carousel-demo.mp4)  
 
 ## 🎯 Installation & Usage  
 
@@ -41,3 +37,6 @@ npm start
 
 ## ⭐ Contributing  
 If you have any improvements or suggestions, feel free to open a pull request!  
+
+## 📜 License  
+This project is open-source and available under the **MIT License**.
